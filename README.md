@@ -1,2 +1,2 @@
-# pnsaude-dashboards
+# pns-dashboard
  
